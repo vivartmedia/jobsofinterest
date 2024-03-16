@@ -12,21 +12,32 @@ function AirbnbComponent() {
                             <Card.Title>Airbnb</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Why Work at Airbnb?</Card.Subtitle>
                             <Card.Text>
-                                Airbnb revolutionizes how we experience travel, emphasizing a global community and unique stays. It's a platform that values innovation, diversity, and the power of belonging, offering a unique angle on tech and tourism.
+                                At Airbnb, I will be part of a community that’s transforming travel by fostering onnections worldwide. The Trust team, focusing on fraud detection and community standards, plays a crucial role in ensuring Airbnb's platform remains secure and trustworthy.
                             </Card.Text>
                             <Card.Subtitle className="mb-2 text-muted">Skills Required</Card.Subtitle>
                             <Card.Text>
-                                Strong web development skills with React, HTML, CSS, and JavaScript are essential at Airbnb. Experience with full-stack development, especially knowledge in backend technologies and a passion for creating user-centric solutions, aligns with Airbnb’s mission.
+                                <ul>
+                                    <li>Bachelor’s degree in Computer Science or equivalent, with 7+ years in frontend web development.</li>
+                                    <li>Extensive experience in TypeScript/JavaScript, GraphQL, REST APIs, and React. Fluency in HTML, CSS, and web technologies.</li>
+                                    <li>My skills in React, JavaScript, C#, HTML, and CSS, supplemented by my adaptability and eagerness to learn new technologies like GraphQL, position me to significantly contribute to developing and enhancing Airbnb’s Trust Platform.</li>
+                                </ul>
                             </Card.Text>
                             <Card.Subtitle className="mb-2 text-muted">Goals</Card.Subtitle>
                             <Card.Text>
-                                At Airbnb, I would aim to enhance the platform's user experience, making travel more accessible and meaningful. Working on features that empower hosts and guests alike, and contributing to a global community of travelers.
+                                <ul>
+                                    <li>Develop and optimize tools and frameworks for fraud detection and standard enforcement across Airbnb, working closely with a cross-functional team.</li>
+                                    <li>Leverage my frontend expertise to standardize enforcement across Airbnb, ensuring a seamless and secure user experience.</li>
+                                    <li>Collaborate with Android, iOS, and backend engineers to create foundational, cross-platform solutions.</li>
+                                </ul>
                             </Card.Text>
                             <Card.Subtitle className="mb-2 text-muted">Skillset Match</Card.Subtitle>
                             <Card.Text>
-                                My expertise in React and web development lays a solid foundation for a role at Airbnb. Expanding my skill set into full-stack development and focusing on user experience design could further my alignment with Airbnb’s innovative projects.
+                                <ul>
+                                    <li>While my primary expertise lies in web development, my foundational knowledge and readiness to dive into full-stack development and new web technologies align well with the role's requirements. My commitment to enhancing user experience and security on web platforms complements the mission of the Trust Platform team at Airbnb.</li>
+                                    
+                                </ul>
                             </Card.Text>
-                            <Card.Link href="https://careers.airbnb.com/" target='_blank'>Spotify Internships</Card.Link>
+                            <Card.Link href="https://careers.airbnb.com/positions/5491458/" target='_blank'>Spotify Job</Card.Link>
                         </Card.Body>
                     </Card>
                 </Col>

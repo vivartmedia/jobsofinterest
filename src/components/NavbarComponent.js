@@ -8,9 +8,9 @@ function NavbarComponent() {
   return (
     <>
       
-      <Navbar bg="primary" data-bs-theme="dark">
+      <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand as={Link} to ={'/'}>Jobs that Interest you
+          <Navbar.Brand as={Link} to ={'/'}>Jobs that Interest me
 </Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link as={Link} to = {'/BallastLaneComponent'}>#1: BallastLane</Nav.Link>

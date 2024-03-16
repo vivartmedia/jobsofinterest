@@ -20,19 +20,28 @@ function GoogleComponent() {
                 </Card.Text>
                 <Card.Subtitle className="mb-2 text-muted">Skills Required</Card.Subtitle>
                 <Card.Text>
-                  Google’s diverse technology ecosystem necessitates proficiency in a range of skills, including but not limited
-                  to, software development, cloud technologies, artificial intelligence (AI), and machine learning (ML).
-                  While Google uses a variety of programming languages and technologies, my familiarity with React, HTML, CSS, JavaScript, and an understanding of C# could serve as a solid foundation. Expanding my skill set to include Python or Java and deeper cloud technology knowledge could open more opportunities.
+                  <ul>
+                    <li>Bachelor’s degree in Computer Science or a related field, supplemented by 2 years of experience in software development.</li>
+                    <li>Solid foundation in programming languages (React, JavaScript, C#, etc.), data structures, algorithms, and an eagerness to learn more.</li>
+                    <li>Interest in developing accessible technologies and enhancing software performance in large-scale systems.</li>
+                  </ul>
+                  
                 </Card.Text>
                 <Card.Subtitle className="mb-2 text-muted">Goals</Card.Subtitle>
                 <Card.Text>
-                In a hypothetical position at Google, I might aim to contribute to innovative projects with significant impact, leveraging my web development skills to enhance user experiences or develop new features for Google's array of products and services.
+                  <ul>
+                    <li>Design, develop, test, and maintain software solutions, managing project priorities and deadlines.</li>
+                    <li> Engage in continuous learning to tackle full-stack challenges and contribute across Google’s technological spectrum.</li>
+                   
+                  </ul>
+                  
+                 
                 </Card.Text>
                 <Card.Subtitle className="mb-2 text-muted">Skillset Match</Card.Subtitle>
                 <Card.Text>
-                I currently possess a strong foundation in web development, crucial for many roles at Google. Learning additional skills, particularly in areas like cloud computing or AI, would increase my alignment with Google's technical requirements.
+                  With my background and proactive learning attitude, I'm poised to grow into this dynamic role, pushing technology forward at Google.
                 </Card.Text>
-                <Card.Link href="https://buildyourfuture.withgoogle.com/internships" target='_blank'>Google Internships</Card.Link>
+                <Card.Link href="https://www.google.com/search?q=google+jobs+software+development,+cloud+technologies,+artificial+intelligence&oq=google+jobs+software+development,+cloud+technologies,+artificial+intelligence&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEINzAxOWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwim_ZmL_vaEAxXM6skDHW-nCv4Qkd0GegQIEBAB#fpstate=tldetail&htivrt=jobs&htiq=google+jobs+software+development,+cloud+technologies,+artificial+intelligence&htidocid=iT2Eyq24UOf5y_LLAAAAAA%3D%3D" target='_blank'>Google Job</Card.Link>
               </Card.Body>
             </Card>
           </Col>

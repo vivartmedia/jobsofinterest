@@ -19,7 +19,7 @@ const HomePageComponent = () => {
         Innovating digital solutions for scaling businesses with a blend of strategic planning and technical prowess.
         </Card.Text>
         <Link to={'/BallastLaneComponent'} >Learn more   </Link> <br></br>
-        <Card.Link href="https://ballastlane.com/careers" target='_blank'>BalastLane Careers</Card.Link>
+          <Card.Link href="https://ballastlane.com/position/1550568" target='_blank'>BalastLane Careers</Card.Link>
       </Card.Body>
     </Card>
 
@@ -31,7 +31,7 @@ const HomePageComponent = () => {
         A tech giant fostering creativity and innovation with exceptional benefits and flexible work culture.
         </Card.Text>
         <Link to={'/GoogleComponent'} >Learn more   </Link> <br></br>
-        <Card.Link href="https://buildyourfuture.withgoogle.com/internships" target='_blank'>Google Internships</Card.Link>
+          <Card.Link href="https://www.google.com/search?q=google+jobs+software+development,+cloud+technologies,+artificial+intelligence&oq=google+jobs+software+development,+cloud+technologies,+artificial+intelligence&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEINzAxOWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwim_ZmL_vaEAxXM6skDHW-nCv4Qkd0GegQIEBAB#fpstate=tldetail&htivrt=jobs&htiq=google+jobs+software+development,+cloud+technologies,+artificial+intelligence&htidocid=iT2Eyq24UOf5y_LLAAAAAA%3D%3D" target='_blank'>Google Job</Card.Link>
       </Card.Body>
     </Card>
 
@@ -43,19 +43,19 @@ const HomePageComponent = () => {
         Leading global technology with a focus on growth, innovation, and a diverse, remote-friendly work environment.
         </Card.Text>
         <Link to={'/MicrosoftComponent'} >Learn more   </Link> <br></br>
-        <Card.Link href="https://careers.microsoft.com/v2/global/en/students" target='_blank'>Microsoft Internships</Card.Link>
+          <Card.Link href="https://jobs.careers.microsoft.com/global/en/job/1556285/Software-Engineer" target='_blank'>Microsoft Internships</Card.Link>
       </Card.Body>
     </Card>
 
     <Card className='m-4' style={{ width: '18rem' }}>
       <Card.Body>
-        <Card.Title>#4: Spotify</Card.Title>
-        <Card.Subtitle className="mb-2 text-muted">Revolutionizing Music & Podcasts</Card.Subtitle>
+        <Card.Title>#4: NVIDIA</Card.Title>
+          <Card.Subtitle className="mb-2 text-muted">Revolutionizing graphics and AI technology</Card.Subtitle>
         <Card.Text>
-        Dynamic culture with a balance of innovation and work-life, transforming how we experience music and podcasts.
+            offers an unparalleled opportunity to contribute to the advancement of computing, AI, and automation solutions. 
         </Card.Text>
-        <Link to={'/SpotifyComponent'} >Learn more   </Link> <br></br>
-        <Card.Link href="https://www.lifeatspotify.com/students" target='_blank'>Spotify Internships</Card.Link>
+          <Link to={'/NvidiaComponent'} >Learn more   </Link> <br></br>
+          <Card.Link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineer_JR1981246-1" target='_blank'>NVIDIA Job</Card.Link>
       </Card.Body>
     </Card>
     
@@ -69,7 +69,7 @@ const HomePageComponent = () => {
         Creating a sense of belonging worldwide with innovative platform features, focused on sustainable and accessible travel.
         </Card.Text>
         <Link to={'/AirbnbComponent'} >Learn more   </Link> <br></br>
-        <Card.Link href="https://careers.airbnb.com/" target='_blank'>Spotify Internships</Card.Link>
+          <Card.Link href="https://careers.airbnb.com/positions/5491458/" target='_blank'>Airbnb Job</Card.Link>
       </Card.Body>
     </Card>
 

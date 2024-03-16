@@ -12,29 +12,29 @@ function MicrosoftComponent() {
                             <Card.Title>Microsoft</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Why Work at Microsoft?</Card.Subtitle>
                             <Card.Text>
-                                Microsoft empowers innovation and digital transformation, known for its inclusive culture,
-                                comprehensive benefits, and remote-friendly work policies. It's an environment where technology
-                                and people come together to solve complex challenges.
+                                At Microsoft, innovation and collaboration create a world of possibilities. Engage in the transformation of analytics with leading products like Power BI and Azure Data Explorer, aiming to empower every individual to make better decisions with data.
                             </Card.Text>
                             <Card.Subtitle className="mb-2 text-muted">Skills Required</Card.Subtitle>
                             <Card.Text>
-                                Proficiency in cloud services, software development, and data science are valuable at Microsoft.
-                                My knowledge in React, C#, HTML, CSS, and JavaScript aligns with Microsoft's technology stack,
-                                especially considering the importance of .NET and Azure in their ecosystem.
+                                <ul>
+                                    <li>Bachelor's Degree in Computer Science (or related discipline) or equivalent experience, with solid coding skills in C#, Java, or Python, and a strong foundation in object-oriented programming.</li>
+                                    <li>Proven experience with web technologies, particularly React, and an understanding of the development lifecycle, from implementation to production release.</li>
+                                    <li>Experience in creating and consuming RESTful APIs, with a preference for experience in responsive and accessible UI development, TypeScript, and Angular.</li>
+                                    <li>My foundation in React, C#, HTML, CSS, and JavaScript, complemented by an eagerness to master TypeScript, Angular, and RxJs, aligns with the technical demands of this role.</li>
+                                </ul>
                             </Card.Text>
                             <Card.Subtitle className="mb-2 text-muted">Goals</Card.Subtitle>
                             <Card.Text>
-                                Aspiring to contribute to Microsoft means aiming to enhance cloud computing solutions, improve product
-                                accessibility, and drive innovation in software development, utilizing my existing web development skills
-                                and expanding my expertise in Azure and .NET technologies.
-                            </Card.Text>
+                                <ul>
+                                    <li>As a full-stack engineer, I would focus on developing end-to-end features for Power BI, improving data modeling engines, and enhancing the user experience across web and desktop applications.</li>
+                                    <li>My goal is to contribute to a team that values clean, well-factored code with good tests and maintainability, delivering scalable and high-quality software solutions.</li>
+                                </ul>
+                             </Card.Text>
                             <Card.Subtitle className="mb-2 text-muted">Skillset Match</Card.Subtitle>
                             <Card.Text>
-                                With a solid background in React, C#, and other web technologies, I'm on the right track.
-                                Diving deeper into Microsoft-specific technologies like Azure and .NET will further align my skills
-                                with Microsoft's projects and innovation goals.
+                                While new to some specific technologies listed, my solid background in software development, especially in React and C#, positions me well for this role. My willingness to dive into Angular, TypeScript, and state management solutions, coupled with my foundation in web development, sets me on a path for success within Microsoft's dynamic environment.
                             </Card.Text>
-                            <Card.Link href="https://careers.microsoft.com/v2/global/en/students" target='_blank'>Microsoft Internships</Card.Link>
+                            <Card.Link href="https://jobs.careers.microsoft.com/global/en/job/1556285/Software-Engineer" target='_blank'>Microsoft Internships</Card.Link>
                         </Card.Body>
                     </Card>
                 </Col>
