@@ -16,7 +16,7 @@ function NavbarComponent() {
             <Nav.Link as={Link} to = {'/BallastLaneComponent'}>#1: BallastLane</Nav.Link>
             <Nav.Link as={Link} to = {'/GoogleComponent'}>#2:Google</Nav.Link>
             <Nav.Link as={Link} to = {'/MicrosoftComponent'}>#3: Microsoft</Nav.Link>
-            <Nav.Link as={Link} to = {'/SpotifyComponent'}>#4: Spotify</Nav.Link>
+            <Nav.Link as={Link} to = {'/SpotifyComponent'}>#4: NVIDIA</Nav.Link>
             <Nav.Link as={Link} to = {'/AirbnbComponent'}>#5: Airbnb</Nav.Link>
            
           </Nav>
