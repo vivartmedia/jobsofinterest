@@ -1,3 +1,22 @@
+
+// Your name: Ashur Nanno
+
+ // Date Revised: 03/16/2024
+
+ // Exercise or Lab name: Jobs that Interest you
+
+ // Brief Description of what you did: created a website in React about five places that I want to work at; using component i createx HomePage components and for each 5 job i created a diffent component.
+
+// Person who Peer Reviewed your assignment
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
