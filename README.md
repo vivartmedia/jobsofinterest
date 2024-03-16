@@ -7,7 +7,8 @@
 
  // Brief Description of what you did: created a website in React about five places that I want to work at; using component i createx HomePage components and for each 5 job i created a diffent component.
 
-// Person who Peer Reviewed your assignment
+// Person who Peer Reviewed your assignment: Jared Ly
+Peer Review - Site looks good and simple I like the job pages but i think you could do something with the empty space on the home page, other than than I like the job choices great work!
 
 
 
